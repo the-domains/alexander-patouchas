@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Aristotelian Observations by a Disappointed yet Effervescent Idealist]]></title>
+        <description><![CDATA[Aristotelian Observations by a Disappointed yet Effervescent Idealist]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Dec 2015 06:29:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Who is This Guy?]]></title>
+            <description><![CDATA[<article><h1>Who is This Guy?</h1><p>I'm half Finnish half Greek hence only 50% bankrupt. Excited about a bunch of things as long as it's intellectually pleasing. Whatever that means. I was born in Finland. Spent all the childhood summers in Greece. Lived for a semester in the city of London - no not in the UK but in Ontario, Canada.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db1cbb2d86a964aca0ec063bace356c039438f82.jpg"></article>]]></description>
+            <link>https://patouchas.wordpress.com/who-is-this-guy/</link>
+            <guid isPermaLink="false">3b1f6746-12f9-4af3-8b7e-0fbe666e5624</guid>
+            <pubDate>Tue, 15 Dec 2015 06:29:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
