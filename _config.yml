@@ -1,41 +1,41 @@
-name: Alexander Patouchas
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0
 title: Aristotelian Observations by a Disappointed yet Effervescent Idealist
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-71403182-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.07101299706846476
+  brandStrength: 0.2625681282952428
+  rhythmicContrast: 1
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.2625681282952428
   lightness: 0.8962436451110989
-  saturation: 0.07101299706846476
-  rhythmicContrast: 1
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-71403182-1
+  facebook: null
+name: Alexander Patouchas
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.1111111
+layout_spectrum: 1
