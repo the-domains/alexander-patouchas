@@ -1,6 +1,6 @@
 name: Alexander Patouchas
 favicon: null
-layout_spectrum: 0.797491
+layout_spectrum: 1
 typography_spectrum: 0.06392
 title: Aristotelian Observations by a Disappointed yet Effervescent Idealist
 collections:
@@ -37,5 +37,5 @@ color:
   brandStrength: 0.2625681282952428
   lightness: 0.8962436451110989
   saturation: 0.07101299706846476
-  rhythmicContrast: 0.6172896202187985
+  rhythmicContrast: 1
 purpose: []
