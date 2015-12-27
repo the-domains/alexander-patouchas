@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: My beard product line combines the purity of Greek olive oil with botanicals indigenous to the arctics of Finland
-datePublished: '2015-12-26T15:24:52.723Z'
-dateModified: '2015-12-26T15:23:50.547Z'
+datePublished: '2015-12-27T14:59:05.687Z'
+dateModified: '2015-12-26T15:24:52.723Z'
 title: (S)Parta Beard
 author: []
 authors: []
